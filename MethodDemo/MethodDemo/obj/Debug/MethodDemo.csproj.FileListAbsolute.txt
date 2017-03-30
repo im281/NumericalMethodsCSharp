@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\MethodDemo\MethodDemo\bin\Debug\MethodDemo.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\MethodDemo\MethodDemo\bin\Debug\MethodDemo.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\MethodDemo\MethodDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\MethodDemo\MethodDemo\obj\Debug\MethodDemo.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\MethodDemo\MethodDemo\obj\Debug\MethodDemo.pdb

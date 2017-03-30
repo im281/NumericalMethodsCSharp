@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\WhileLoop\WhileLoop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

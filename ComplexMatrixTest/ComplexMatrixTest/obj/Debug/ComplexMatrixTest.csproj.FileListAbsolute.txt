@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexMatrixTest\ComplexMatrixTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexMatrixTest\ComplexMatrixTest\bin\Debug\ComplexMatrixTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexMatrixTest\ComplexMatrixTest\bin\Debug\ComplexMatrixTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexMatrixTest\ComplexMatrixTest\obj\Debug\ComplexMatrixTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexMatrixTest\ComplexMatrixTest\obj\Debug\ComplexMatrixTest.pdb

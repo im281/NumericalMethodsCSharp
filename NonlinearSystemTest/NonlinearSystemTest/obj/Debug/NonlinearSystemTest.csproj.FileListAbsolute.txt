@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\NonlinearSystemTest\NonlinearSystemTest\bin\Debug\NonlinearSystemTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\NonlinearSystemTest\NonlinearSystemTest\bin\Debug\NonlinearSystemTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\NonlinearSystemTest\NonlinearSystemTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\NonlinearSystemTest\NonlinearSystemTest\obj\Debug\NonlinearSystemTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\NonlinearSystemTest\NonlinearSystemTest\obj\Debug\NonlinearSystemTest.pdb

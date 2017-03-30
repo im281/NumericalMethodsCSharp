@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\OptimizationTest\OptimizationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\OptimizationTest\OptimizationTest\bin\Debug\OptimizationTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\OptimizationTest\OptimizationTest\bin\Debug\OptimizationTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\OptimizationTest\OptimizationTest\obj\Debug\OptimizationTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\OptimizationTest\OptimizationTest\obj\Debug\OptimizationTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\SpecialFunctionsTest\SpecialFunctionsTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\SpecialFunctionsTest\SpecialFunctionsTest\bin\Debug\SpecialFunctionsTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\SpecialFunctionsTest\SpecialFunctionsTest\bin\Debug\SpecialFunctionsTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\SpecialFunctionsTest\SpecialFunctionsTest\obj\Debug\SpecialFunctionsTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\SpecialFunctionsTest\SpecialFunctionsTest\obj\Debug\SpecialFunctionsTest.pdb

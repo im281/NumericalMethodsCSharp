@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\IntegrationTest\IntegrationTest\bin\Debug\IntegrationTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\IntegrationTest\IntegrationTest\bin\Debug\IntegrationTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\IntegrationTest\IntegrationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\IntegrationTest\IntegrationTest\obj\Debug\IntegrationTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\IntegrationTest\IntegrationTest\obj\Debug\IntegrationTest.pdb

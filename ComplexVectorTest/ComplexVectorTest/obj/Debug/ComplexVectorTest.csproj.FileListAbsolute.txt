@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexVectorTest\ComplexVectorTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexVectorTest\ComplexVectorTest\bin\Debug\ComplexVectorTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexVectorTest\ComplexVectorTest\bin\Debug\ComplexVectorTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexVectorTest\ComplexVectorTest\obj\Debug\ComplexVectorTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexVectorTest\ComplexVectorTest\obj\Debug\ComplexVectorTest.pdb

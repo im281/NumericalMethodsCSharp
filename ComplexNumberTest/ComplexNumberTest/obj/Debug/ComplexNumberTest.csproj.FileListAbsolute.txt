@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberTest\ComplexNumberTest\bin\Debug\ComplexNumberTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberTest\ComplexNumberTest\bin\Debug\ComplexNumberTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberTest\ComplexNumberTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberTest\ComplexNumberTest\obj\Debug\ComplexNumberTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberTest\ComplexNumberTest\obj\Debug\ComplexNumberTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\ODETest\ODETest\bin\Debug\ODETest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ODETest\ODETest\bin\Debug\ODETest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\ODETest\ODETest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\ODETest\ODETest\obj\Debug\ODETest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ODETest\ODETest\obj\Debug\ODETest.pdb

@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\RealMatrixTest\RealMatrixTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\RealMatrixTest\RealMatrixTest\bin\Debug\RealMatrixTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\RealMatrixTest\RealMatrixTest\bin\Debug\RealMatrixTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\RealMatrixTest\RealMatrixTest\obj\Debug\RealMatrixTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\RealMatrixTest\RealMatrixTest\obj\Debug\RealMatrixTest.pdb

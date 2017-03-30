@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\FirstCSharpProgram\FirstCSharpProgram\bin\Debug\FirstCSharpProgram.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\FirstCSharpProgram\FirstCSharpProgram\obj\Debug\FirstCSharpProgram.pdb

@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\DistributionFunctionsTest\DistributionFunctionsTest\bin\Debug\DistributionFunctionsTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\DistributionFunctionsTest\DistributionFunctionsTest\bin\Debug\DistributionFunctionsTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\DistributionFunctionsTest\DistributionFunctionsTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\DistributionFunctionsTest\DistributionFunctionsTest\obj\Debug\DistributionFunctionsTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\DistributionFunctionsTest\DistributionFunctionsTest\obj\Debug\DistributionFunctionsTest.pdb

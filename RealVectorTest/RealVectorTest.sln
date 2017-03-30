@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealVectorTest", "RealVectorTest\RealVectorTest.csproj", "{9CF73009-002E-4008-ACDB-9DD37834E7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF73009-002E-4008-ACDB-9DD37834E7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF73009-002E-4008-ACDB-9DD37834E7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF73009-002E-4008-ACDB-9DD37834E7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF73009-002E-4008-ACDB-9DD37834E7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\SwitchStatement\SwitchStatement\bin\Debug\SwitchStatement.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\SwitchStatement\SwitchStatement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\SwitchStatement\SwitchStatement\obj\Debug\SwitchStatement.pdb

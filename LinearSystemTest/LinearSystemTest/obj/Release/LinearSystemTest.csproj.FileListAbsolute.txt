@@ -1,0 +1,10 @@
+C:\Documents and Settings\Finnigan\My Documents\Examples\LinearSystemTest\LinearSystemTest\bin\Release\LinearSystemTest.exe
+C:\Documents and Settings\Finnigan\My Documents\Examples\LinearSystemTest\LinearSystemTest\bin\Release\LinearSystemTest.pdb
+C:\Documents and Settings\Finnigan\My Documents\Examples\LinearSystemTest\LinearSystemTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Finnigan\My Documents\Examples\LinearSystemTest\LinearSystemTest\obj\Release\LinearSystemTest.exe
+C:\Documents and Settings\Finnigan\My Documents\Examples\LinearSystemTest\LinearSystemTest\obj\Release\LinearSystemTest.pdb
+E:\Math downloads\Examples\LinearSystemTest\LinearSystemTest\obj\Release\LinearSystemTest.exe
+E:\Math downloads\Examples\LinearSystemTest\LinearSystemTest\obj\Release\LinearSystemTest.pdb
+E:\Math downloads\Examples\LinearSystemTest\LinearSystemTest\obj\Release\ResolveAssemblyReference.cache
+E:\Math downloads\Examples\LinearSystemTest\LinearSystemTest\bin\Release\LinearSystemTest.exe
+E:\Math downloads\Examples\LinearSystemTest\LinearSystemTest\bin\Release\LinearSystemTest.pdb

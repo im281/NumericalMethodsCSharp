@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\InterpolationTest\InterpolationTest\bin\Debug\InterpolationTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\InterpolationTest\InterpolationTest\bin\Debug\InterpolationTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\InterpolationTest\InterpolationTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\InterpolationTest\InterpolationTest\obj\Debug\InterpolationTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\InterpolationTest\InterpolationTest\obj\Debug\InterpolationTest.pdb

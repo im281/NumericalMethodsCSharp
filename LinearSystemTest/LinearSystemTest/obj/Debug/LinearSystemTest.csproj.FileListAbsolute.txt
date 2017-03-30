@@ -1,0 +1,7 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\LinearSystemTest\LinearSystemTest\bin\Debug\LinearSystemTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\LinearSystemTest\LinearSystemTest\bin\Debug\LinearSystemTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\LinearSystemTest\LinearSystemTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\LinearSystemTest\LinearSystemTest\obj\Debug\LinearSystemTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\LinearSystemTest\LinearSystemTest\obj\Debug\LinearSystemTest.pdb
+C:\Documents and Settings\iman.mohtashemi\My Documents\Examples\LinearSystemTest\LinearSystemTest\obj\Debug\LinearSystemTest.exe
+C:\Documents and Settings\iman.mohtashemi\My Documents\Examples\LinearSystemTest\LinearSystemTest\obj\Debug\LinearSystemTest.pdb

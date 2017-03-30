@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\GeneticAlgorithmTest\GeneticAlgorithmTest\bin\Debug\GeneticAlgorithmTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\GeneticAlgorithmTest\GeneticAlgorithmTest\bin\Debug\GeneticAlgorithmTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\GeneticAlgorithmTest\GeneticAlgorithmTest\obj\Debug\GeneticAlgorithmTest.pdb

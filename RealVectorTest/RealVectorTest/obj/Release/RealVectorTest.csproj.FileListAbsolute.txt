@@ -1,0 +1,5 @@
+C:\Documents and Settings\Finnigan\My Documents\Examples\RealVectorTest\RealVectorTest\bin\Release\RealVectorTest.exe
+C:\Documents and Settings\Finnigan\My Documents\Examples\RealVectorTest\RealVectorTest\bin\Release\RealVectorTest.pdb
+C:\Documents and Settings\Finnigan\My Documents\Examples\RealVectorTest\RealVectorTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Finnigan\My Documents\Examples\RealVectorTest\RealVectorTest\obj\Release\RealVectorTest.exe
+C:\Documents and Settings\Finnigan\My Documents\Examples\RealVectorTest\RealVectorTest\obj\Release\RealVectorTest.pdb

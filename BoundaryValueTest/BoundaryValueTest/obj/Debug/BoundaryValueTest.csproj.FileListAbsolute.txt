@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\BoundaryValueTest\BoundaryValueTest\bin\Debug\BoundaryValueTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\BoundaryValueTest\BoundaryValueTest\bin\Debug\BoundaryValueTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\BoundaryValueTest\BoundaryValueTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\BoundaryValueTest\BoundaryValueTest\obj\Debug\BoundaryValueTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\BoundaryValueTest\BoundaryValueTest\obj\Debug\BoundaryValueTest.pdb

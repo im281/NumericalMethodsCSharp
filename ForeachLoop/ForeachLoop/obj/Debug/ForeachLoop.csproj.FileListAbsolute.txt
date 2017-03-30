@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ForeachLoop\ForeachLoop\bin\Debug\ForeachLoop.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\ForeachLoop\ForeachLoop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ForeachLoop\ForeachLoop\obj\Debug\ForeachLoop.pdb

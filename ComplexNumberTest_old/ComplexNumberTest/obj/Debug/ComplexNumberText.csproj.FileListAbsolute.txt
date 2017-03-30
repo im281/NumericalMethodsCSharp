@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberText\ComplexNumberText\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberText\ComplexNumberText\bin\Debug\ComplexNumberText.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberText\ComplexNumberText\bin\Debug\ComplexNumberText.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberText\ComplexNumberText\obj\Debug\ComplexNumberText.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\ComplexNumberText\ComplexNumberText\obj\Debug\ComplexNumberText.pdb

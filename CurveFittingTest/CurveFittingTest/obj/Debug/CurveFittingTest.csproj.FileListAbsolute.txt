@@ -1,0 +1,7 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\CurveFittingTest\CurveFittingTest\bin\Debug\CurveFittingTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\CurveFittingTest\CurveFittingTest\bin\Debug\CurveFittingTest.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\CurveFittingTest\CurveFittingTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\CurveFittingTest\CurveFittingTest\obj\Debug\CurveFittingTest.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\CurveFittingTest\CurveFittingTest\obj\Debug\CurveFittingTest.pdb
+E:\Math downloads\Examples\CurveFittingTest\CurveFittingTest\obj\Debug\CurveFittingTest.exe
+E:\Math downloads\Examples\CurveFittingTest\CurveFittingTest\obj\Debug\CurveFittingTest.pdb

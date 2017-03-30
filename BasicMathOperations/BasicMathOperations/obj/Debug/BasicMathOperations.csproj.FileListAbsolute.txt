@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\BasicMathOperations\BasicMathOperations\bin\Debug\BasicMathOperations.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\BasicMathOperations\BasicMathOperations\bin\Debug\BasicMathOperations.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\BasicMathOperations\BasicMathOperations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.pdb

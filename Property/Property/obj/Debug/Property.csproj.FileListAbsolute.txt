@@ -1,0 +1,5 @@
+C:\Users\jack\CSharp\Books\SEBook\Examples\Property\Property\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\CSharp\Books\SEBook\Examples\Property\Property\bin\Debug\Property.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\Property\Property\bin\Debug\Property.pdb
+C:\Users\jack\CSharp\Books\SEBook\Examples\Property\Property\obj\Debug\Property.exe
+C:\Users\jack\CSharp\Books\SEBook\Examples\Property\Property\obj\Debug\Property.pdb
