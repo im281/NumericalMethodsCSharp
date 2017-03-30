@@ -1,0 +1,24 @@
+C:\Users\iman.mohtashemi\Documents\Visual Studio 2013\Projects\NumericalLibraries\ConvexOptimization\bin\Debug\ConvexOptimization.dll
+C:\Users\iman.mohtashemi\Documents\Visual Studio 2013\Projects\NumericalLibraries\ConvexOptimization\bin\Debug\ConvexOptimization.pdb
+C:\Users\iman.mohtashemi\Documents\Visual Studio 2013\Projects\NumericalLibraries\ConvexOptimization\obj\Debug\ConvexOptimization.dll
+C:\Users\iman.mohtashemi\Documents\Visual Studio 2013\Projects\NumericalLibraries\ConvexOptimization\obj\Debug\ConvexOptimization.pdb
+C:\Users\iman.mohtashemi\Documents\Visual Studio 2013\Projects\NumericalLibraries\ConvexOptimization\obj\Debug\ConvexOptimization.csprojResolveAssemblyReference.cache
+E:\Downloads\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.dll
+E:\Downloads\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.pdb
+E:\Downloads\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.csprojResolveAssemblyReference.cache
+E:\Downloads\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.dll
+E:\Downloads\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.pdb
+C:\MyTFS\SciLibApp\Development\Dev-Iman\ThermoFisher.Algorithms.WebServices\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.dll
+C:\MyTFS\SciLibApp\Development\Dev-Iman\ThermoFisher.Algorithms.WebServices\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.pdb
+C:\MyTFS\SciLibApp\Development\Dev-Iman\ThermoFisher.Algorithms.WebServices\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.csprojResolveAssemblyReference.cache
+C:\MyTFS\SciLibApp\Development\Dev-Iman\ThermoFisher.Algorithms.WebServices\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.dll
+C:\MyTFS\SciLibApp\Development\Dev-Iman\ThermoFisher.Algorithms.WebServices\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.pdb
+C:\Users\im281\Desktop\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.dll
+C:\Users\im281\Desktop\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.pdb
+C:\Users\im281\Desktop\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.dll
+C:\Users\im281\Desktop\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.pdb
+F:\MatrixSolutions\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.dll
+F:\MatrixSolutions\ConvexOptimization\ConvexOptimization\bin\Debug\ConvexOptimization.pdb
+F:\MatrixSolutions\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.csprojResolveAssemblyReference.cache
+F:\MatrixSolutions\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.dll
+F:\MatrixSolutions\ConvexOptimization\ConvexOptimization\obj\Debug\ConvexOptimization.pdb
